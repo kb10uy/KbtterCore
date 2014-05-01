@@ -4,8 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TweetSharp;
-using Kb10uy.Extension;
-using Kb10uy.Scripting;
 using System.Diagnostics;
 using System.Reactive;
 using System.Reactive.Linq;

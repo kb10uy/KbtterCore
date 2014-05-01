@@ -70,12 +70,6 @@
     <Reference Include="IronPython.Wpf">
       <HintPath>..\packages\IronPython.2.7.4\lib\Net45\IronPython.Wpf.dll</HintPath>
     </Reference>
-    <Reference Include="Kb10uy">
-      <HintPath>..\..\Kb10uy\Kb10uy\bin\Release\Kb10uy.dll</HintPath>
-    </Reference>
-    <Reference Include="Kb10uy.Scripting">
-      <HintPath>..\..\Kb10uy\Scripting\bin\Release\Kb10uy.Scripting.dll</HintPath>
-    </Reference>
     <Reference Include="Microsoft.Dynamic">
       <HintPath>..\packages\IronPython.2.7.4\lib\Net45\Microsoft.Dynamic.dll</HintPath>
     </Reference>
