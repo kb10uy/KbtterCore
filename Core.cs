@@ -54,6 +54,18 @@ namespace Kbtter
         /// 認証しているTwitterUser
         /// </summary>
         public TwitterUser User { get; protected set; }
+
+        /// <summary>
+        /// 現在のレート制限
+        /// </summary>
+        public TwitterRateLimitStatus RateLimit
+        {
+            get
+            {
+                return Service.Response.RateLimitStatus;
+            }
+        }
+
         #endregion
 
         #region (コン|デ)ストラクタ

@@ -112,6 +112,7 @@
     <Compile Include="Status.cs" />
     <Compile Include="Streaming.cs" />
     <Compile Include="Timeline.cs" />
+    <Compile Include="User.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
